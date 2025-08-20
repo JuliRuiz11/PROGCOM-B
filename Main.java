@@ -1,4 +1,4 @@
-class VerificarPositivo {
+class MAain Positivo {
     static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         
@@ -66,128 +66,19 @@ public class ejercicio 3 {
     }
 }
         4. 
-public class ejercicio4 {
+public class Ejercicio 4 {
     public static void main(String[] args) {
-        int calificacion;
+        int Calificación;
         Scanner input = new Scanner(System.in);
-        System.out.print("Ingresa un calificacion: ");
-        calificacion = input.nextInt();
+        System.out.print("Ingresa una calificación: ");
+        Calificación = input.nextInt();
 
-        if(calificacion > 100){
-            System.out.println("calificacion invalida!");
+        if(Calificación > 100){
+            System.out.println("Calificación invalida!");
         }
-        else if(calificacion >= 60) {
-            System.out.println("Usted paso");
+        else if(Calificación >= 60) {
+            System.out.println("Usted aprobo");
         }
         else {
-            System.out.println("Usted no paso");
+            System.out.println("Usted NO aprobo");
         }
-    }
-public class ejercicio4 {
-    public static void main(String[] args) {
-        int calificacion;
-        Scanner input = new Scanner(System.in);
-        System.out.print("Ingresa un calificacion: ");
-        calificacion = input.nextInt();
-
-        if(calificacion > 100){
-            System.out.println("calificacion invalida!");
-        }
-        else if(calificacion >= 60) {
-            System.out.println("Usted paso");
-        }
-        else {
-            System.out.println("Usted no paso");
-        }
-    }
-public class ejercicio4 {
-    public static void main(String[] args) {
-        int calificacion;
-        Scanner input = new Scanner(System.in);
-        System.out.print("Ingresa un calificacion: ");
-        calificacion = input.nextInt();
-
-        if(calificacion > 100){
-            System.out.println("calificacion invalida!");
-        }
-        else if(calificacion >= 60) {
-            System.out.println("Usted paso");
-        }
-        else {
-            System.out.println("Usted no paso");
-        }
-    }
-public class ejercicio4 {
-    public static void main(String[] args) {
-        int calificacion;
-        Scanner input = new Scanner(System.in);
-        System.out.print("Ingresa un calificacion: ");
-        calificacion = input.nextInt();
-
-        if(calificacion > 100){
-            System.out.println("calificacion invalida!");
-        }
-        else if(calificacion >= 60) {
-            System.out.println("Usted paso");
-        }
-        else {
-            System.out.println("Usted no paso");
-        }
-    }
-4.
-    public class ejercicio4 {
-    public static void main(String[] args) {
-        int calificacion;
-        Scanner input = new Scanner(System.in);
-        System.out.print("Ingresa un calificacion: ");
-        calificacion = input.nextInt();
-
-        if(calificacion > 100){
-            System.out.println("calificacion invalida!");
-        }
-        else if(calificacion >= 60) {
-            System.out.println("Usted paso");
-        }
-        else {
-            System.out.println("Usted no paso");
-        }
-    }
-}
-    4.
-    public class ejercicio4 {
-    public static void main(String[] args) {
-        int calificacion;
-        Scanner input = new Scanner(System.in);
-        System.out.print("Ingresa un calificacion: ");
-        calificacion = input.nextInt();
-
-        if(calificacion > 100){
-            System.out.println("calificacion invalida!");
-        }
-        else if(calificacion >= 60) {
-            System.out.println("Usted paso");
-        }
-        else {
-            System.out.println("Usted no paso");
-        }
-    }
-}
-    4.
-    public class ejercicio4 {
-    public static void main(String[] args) {
-        int calificacion;
-        Scanner input = new Scanner(System.in);
-        System.out.print("Ingresa un calificacion: ");
-        calificacion = input.nextInt();
-
-        if(calificacion > 100){
-            System.out.println("calificacion invalida!");
-        }
-        else if(calificacion >= 60) {
-            System.out.println("Usted paso");
-        }
-        else {
-            System.out.println("Usted no paso");
-        }
-    }
-}
